@@ -154,9 +154,17 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+### First Part of AirBnB (The Console)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
-Second part of Airbnb: Joann Vuong
+### Second part of AirBnB
+Joann Vuong
+
+### Third Part of AirBnB (RESTful API)
+Sultan Akinol - [Github] (https://github.com/Sultanakinola)
+Chimezie Ndubuisi - [Github] (https://github.com/StanleyGemstone) / [Twitter] (https://twitter.com/princegemstone)
+
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
+
