@@ -162,8 +162,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Joann Vuong
 
 ### Third Part of AirBnB (RESTful API)
-Sultan Akinol - [Github] (https://github.com/Sultanakinola)
-Chimezie Ndubuisi - [Github] (https://github.com/StanleyGemstone) / [Twitter] (https://twitter.com/princegemstone)
+Sultan Akinol - [Github](https://github.com/Sultanakinola)
+Chimezie Ndubuisi - [Github](https://github.com/StanleyGemstone) / [Twitter](https://twitter.com/princegemstone)
 
 ## License
 Public Domain. No copy write protection.
