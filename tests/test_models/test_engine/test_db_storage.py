@@ -84,7 +84,7 @@ class TestFileStorage(unittest.TestCase):
         state_obj = models.storage.get("State", first_state_obj.id)
         self.assertIs(first_state_obj, state_obj)
 
-        @unittest.skipIf(models.storage_t != 'db', "not testing db storage")
+    @unittest.skipIf(models.storage_t != 'db', "not testing db storage")
     def test_returns_none(self):
         """Test that get returns None for nonexisting object """
         state_obj = models.storage.get("State", "IDONTEXIST")
@@ -102,7 +102,7 @@ class TestFileStorage(unittest.TestCase):
     def test_save(self):
         """Test that save properly saves objects to file.json"""
 
-        @unittest.skipIf(models.storage_t != 'db', "not testing db storage")
+    @unittest.skipIf(models.storage_t != 'db', "not testing db storage")
     def test_count(self):
         """Test that count is properly return """
         objs = models.storage.all()
